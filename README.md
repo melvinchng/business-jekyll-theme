@@ -22,10 +22,6 @@ Big thanks to the creator of Office as this theme would not be possible without 
 - Easy to use
 - It's Free!
 
-## Screenshot
-![Screenshot of Travellers]
-(https://raw.githubusercontent.com/technext/Office/master/office-full.png)
-
 ## Installation
 1. For first time user, you have to install Ruby and Rails. If you do not have Ruby on Rails installed, you may follow [this tutorial](http://melvinchng.github.io/rails/RubyOnRailsInstallation.html) that I wrote for Windows, Linux, and MacOS (installation videos are included).
 2. Install Jekyll by using the command `gem install jekyll`.
