@@ -1,0 +1,3 @@
+---
+layout: home_style
+---
