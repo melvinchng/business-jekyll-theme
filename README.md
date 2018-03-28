@@ -10,7 +10,7 @@ Big thanks to the creator of Office as this theme would not be possible without 
 - [Business Jekyll Theme](https://business-jekyll-theme.github.io)
 
 **Example Site From The Original Creater**
-- [Office Template](http://themewagon.com/demo/Flusk/)
+- [Office Template](http://demo.themewagon.com/preview/office-responsive-multipage-bootstrap-template)
 
 ## Feature
 - Rsponsive layout
