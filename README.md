@@ -2,7 +2,7 @@
 
 Business Jekyll Theme is a theme that is designed to be used for small and medium business. It is designed by a team from [Technext](https://github.com/technext/). The theme is then ported over by [Melvin Ch'ng](http://melvinchng.github.io) for Jekyll support. The original source code can be obainted from Technext's [repository](https://github.com/technext/office)
 
-Unlike most Jekyll Themes, Business Jekyll Theme is not meant to be a single page theme. This theme is a package that you can use for your business website. I reorganized all the files and make it Jekyll friendly.
+Unlike most Jekyll Themes, Business Jekyll Theme is not meant to be a single page theme. This theme is a package that you can use for your business website or promote certain project. I reorganized all the files and make it Jekyll friendly.
 
 Big thanks to the creator of Office as this theme would not be possible without their hard work! You are always welcome to contribute to this repository to make it better!
 
@@ -17,10 +17,13 @@ Big thanks to the creator of Office as this theme would not be possible without 
 - CSS Framework - Bootstrap 3
 - Beautiful icons by Fontawesome
 - Clean, simple and elegant
-- Multipage Teplate
+- Multi page Template
 - Well commented and structured coding
 - Easy to use
 - It's Free!
+
+## Note
+I removed certain features from the original theme packages as it is not mobile friendly and we do not really need it.
 
 ## Installation
 1. For first time user, you have to install Ruby and Rails. If you do not have Ruby on Rails installed, you may follow [this tutorial](http://melvinchng.github.io/rails/RubyOnRailsInstallation.html) that I wrote for Windows, Linux, and MacOS (installation videos are included).

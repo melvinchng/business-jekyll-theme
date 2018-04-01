@@ -20,8 +20,20 @@ description: > # this means to ignore newlines until "baseurl:"
   Melvin Ch'ng.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: HelloWorld
-github_username:  HelloWorld
+
+# Company Information
+company_name: Johns, Smith & Associates
+address_line: Via Ludovisi 39-45, Rome, 54267, Italy
+telephone_number: 1.800.245.356
+fax_number: 1.800.245.357
+company_email: hello@LawOffice.org
+google_map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3618.727010735933!2d91.837871!3d24.907291700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1404919738144
+
+# Social Link
+facebook_link: http://www.facebook.com
+twitter_link: http://www.twitter.com
+linkedin_link: http://www.linkedin.com
+googleplus_link: http://plus.google.com
 
 # Build settings
 markdown: kramdown

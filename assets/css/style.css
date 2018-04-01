@@ -15,6 +15,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 * Global
 * ==========================================================================
 */
+
 .btn-primary{
   margin-left: 20px;
 }
@@ -139,8 +140,6 @@ float: right;
     margin-top: 80px;
 }
 
-
-
 .white-text{
     font-style: italic;
     color: white;
@@ -150,7 +149,6 @@ body {
     font-size: 15px;
     line-height: 24px;
     background:#F8FAFF;
-   
 }
 
 a {
@@ -484,6 +482,7 @@ p.blog-text{
 .footer-widget{
     color:white;
     margin-top: 55px;
+    position: absolute;
 }
 
 
@@ -504,8 +503,10 @@ footer .widget i {
 }
 footer{
    margin-top:40px;
-   padding: 20px; 
+   left: 0;
+   right: 0;
    background: black;
+   bottom: 0px;
 }
 
 footer h3 {
