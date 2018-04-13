@@ -9,11 +9,11 @@ Big thanks to the creator of Office as this theme would not be possible without 
 **Example Site**
 - [Business Jekyll Theme](https://business-jekyll-theme.github.io)
 
-**Example Site From The Original Creater**
+**Example Site From The Original Creator**
 - [Office Template](http://demo.themewagon.com/preview/office-responsive-multipage-bootstrap-template)
 
 ## Feature
-- Rsponsive layout
+- Responsive layout
 - CSS Framework - Bootstrap 3
 - Beautiful icons by Fontawesome
 - Clean, simple and elegant
@@ -23,7 +23,7 @@ Big thanks to the creator of Office as this theme would not be possible without 
 - It's Free!
 
 ## Note
-I removed certain features from the original theme packages as it is not mobile friendly and we do not really need it.
+I removed certain features from the original theme packages as we do not really need it. I modified the original source code slightly to make it more mobile friendly and reusable. 
 
 ## Installation
 1. For first time user, you have to install Ruby and Rails. If you do not have Ruby on Rails installed, you may follow [this tutorial](http://melvinchng.github.io/rails/RubyOnRailsInstallation.html) that I wrote for Windows, Linux, and MacOS (installation videos are included).
