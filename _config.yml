@@ -17,9 +17,9 @@ title: Kim Hyun Nailart
 email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
   Bij ons vind je alles wat je nodig hebt om je nagels op te fleuren en te verzorgen.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://drystan-furor.github.io/business" # the base hostname & protocol for your site, e.g. http://example.com
-root: /business
+
 
 # Company Information
 company_name: Nagelstudio Kim Hyun
