@@ -6,7 +6,6 @@ GEM
     colorator (1.1.0)
     concurrent-ruby (1.2.0)
     ffi (1.15.5)
-    ffi (1.15.5-x64-mingw32)
     forwardable-extended (2.6.0)
     jekyll (3.5.2)
       addressable (~> 2.4)
@@ -66,4 +65,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   1.16.0
+   2.2.3
